@@ -1,15 +1,7 @@
-# Flexbox Basics
+# Flexbox Exercises
 
-Fundamentals first...
+## Holy Grail Layout
 
-## Introduction
+## Grid
 
-[What is Flexbox?](https://en.wikipedia.org/wiki/CSS_Flex_Box_Layout)
-
-## Examples
-
-### Grid
-
-### Holy Grail Layout
-
-### Vertical Alignment
+## Vertical Alignment
