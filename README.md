@@ -7,22 +7,22 @@ Refer to this for specifics of how to use Flexbox:
 
 ## Directions
 
-In each layout's folder, create an `index.html` and `styles.css` file.
+In each layout's folder, add to the `main.css` file to create the intended design.
 
 ## Holy Grail Layout
 
-![Holy Grail Layout](holy-grail.png)
+![Holy Grail Layout](./mockups/holy-grail.png)
 
 This layout is described [here](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/).
 
 ## Grid
 
-![Grid Layout](grid.png)
+![Grid Layout](./mockups/grid.png)
 
 This layout is described [here](https://philipwalton.github.io/solved-by-flexbox/demos/grids/).
 
 ## Center Alignment
 
-![Center Layout](center.png)
+![Center Layout](./mockups/center.png)
 
 This layout is described [here](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/).
